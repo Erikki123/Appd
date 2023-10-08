@@ -17,6 +17,7 @@ explaining basic functionalities.
     - Further information of the Task - dashboard structure and how to
     orient there is in file **Dashboard_Info.docs** / **Dashboard_Info.md**
 
+![alt text](https://github.com/Erikki123/Temp_Song-me/blob/main/imges/project_screenshot.png)
 
 -   **Branches:**
     - Additional information for branch structure and its use is in
