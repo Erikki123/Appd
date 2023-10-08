@@ -17,6 +17,7 @@ explaining basic functionalities.
     - Further information of the Task - dashboard structure and how to
     orient there is in file **Dashboard_Info.docs** / **Dashboard_Info.md**
 
+
 -   **Branches:**
     - Additional information for branch structure and its use is in
     **Branch_Info.docs** / **Branch_Info.md**
