@@ -1,12 +1,11 @@
 # "Song ME"
 
-**Welcome, we highly appreciate your willingness to join our development
-team!**\
+### **Welcome, we highly appreciate your willingness to join our development team!**
 \
 Before you begin working on the assigned tasks, please read the
 following text. It will provide you valuable information of where to
 look for additional details, how to orient yourself in the project
-directory, use project dashboard and tell you the goal of the project.\
+directory, use project dashboard and tell you the goal of the project.
 For those who have never used GitHub before, there exists a file
 explaining basic functionalities.
 
@@ -15,7 +14,7 @@ explaining basic functionalities.
 -   **Project:**
     - To know what task is assigned to you look for the tab Projects in
     the top left part of the window. (Project name is Task - dashboard)
-    - Further information of the Task -- dashboard structure and how to
+    - Further information of the Task - dashboard structure and how to
     orient there is in file **Dashboard_Info.docs** / **Dashboard_Info.md**
 
 -   **Branches:**
