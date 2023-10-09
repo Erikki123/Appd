@@ -29,6 +29,8 @@
 -   🔷 To clone the repository, you need the SSH key or HTTPS link to the
     repository.
 
+![alt text](https://github.com/Erikki123/Temp_Song-me/blob/main/Images/github_repozitoryAdd.jpg)
+
 -   🔷 Once inserted, choose the path on your PC, where the repository will
     be cloned. (❗️ IMPORTANT: Create a folder for the project otherwise all
     the folders and files in the selected folder will be uploaded into
@@ -42,3 +44,5 @@
     need to push the committed files, so they would be uploaded to
     GitHub. (❗️ IMPORTANT: Write a summary, which would tell others what is
     being committed. If necessary, you can add description. ❗️)
+
+![alt text](https://github.com/Erikki123/Temp_Song-me/blob/main/Images/github.jpg)
