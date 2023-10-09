@@ -17,7 +17,7 @@ explaining basic functionalities.
 - To know what task is assigned to you look for the tab Projects in the top left part of the window. (Project name is Task - dashboard)
 - Further information of the Task - dashboard structure and how to orient there is in file `Dashboard_Info.docs` / `Dashboard_Info.md`
 
-![alt text](https://github.com/Erikki123/Temp_Song-me/blob/main/imges/project_screenshot.png)
+![alt text](https://github.com/Erikki123/Temp_Song-me/blob/main/images/project_screenshot.png)
 
 🔷 **Branches:**
 - Additional information for branch structure and its use is in `Branch_Info.docs` / `Branch_Info.md`
