@@ -1,19 +1,19 @@
-**Departments**
+# Departments
 
-**Basic information:**
+### 🔶 Basic information:
 
--   Each department has its Lead, who in general has the final word
+-   🔷 Each department has its Lead, who in general has the final word
     about whether the work is final or not.
 
--   Members of the departments get assigned to work, which is expected
+-   🔷 Members of the departments get assigned to work, which is expected
     from the to be delivered.
 
--   **Note: This is just a guide and all ideas from all members to any
-    department are highly welcomed!**
+-   **❗️ Note: This is just a guide and all ideas from all members to any
+    department are highly welcomed! ❗️**
 
-**Department description:**
+### 🔶 Department description:
 
--   **Back-end programming:**
+-   **🔷 Back-end programming:**
 
     -   Development of the functionality and logic of the application.
 
@@ -21,7 +21,7 @@
 
     -   Knowledge of programming software and data structure.
 
--   **Front-end programming:**
+-   **🔷 Front-end programming:**
 
     -   Programming of the UI / UX.
 
@@ -30,7 +30,7 @@
 
     -   Knowledge of programming UI / UX.
 
--   **UI / UX design:**
+-   **🔷 UI / UX design:**
 
     -   Creation of the 2D / 3D designs or animations for the app
         appearance.
@@ -39,7 +39,7 @@
 
     -   Knowledge of 2D/3D design.
 
--   **Marketing:**
+-   **🔷 Marketing:**
 
     -   Promotion of the final product.
 
@@ -47,7 +47,7 @@
 
     -   Knowledge of people and market.
 
--   **Legal matter:**
+-   **🔷 Legal matter:**
 
     -   Looking for the information how is it with author rights.
 
@@ -58,19 +58,19 @@
 
     -   Knowledge of law.
 
--   **Sound:**
+-   **🔷 Sound:**
 
     -   Creating sound effects for the app.
 
     -   Knowledge of sound / melody creation.
 
--   **Other:**
+-   **🔷 Other:**
 
     -   What cannot be sorted above is placed here.
 
-**Responsibilities:**
+### 🔶 Responsibilities:
 
--   **Management:** (Responsibilities on top of the Lead role for
+-   **🔷 Management:** (Responsibilities on top of the Lead role for
     Management Department only.)
 
     -   Schedules meetings with the Leads and other members of the team
@@ -81,7 +81,7 @@
 
     -   Provides guidance to the whole team and motivates them.
 
--   **Lead:**
+-   **🔷 Lead:**
 
     -   Management of the team, which is assigned to the department.
         (Distribution of the tasks.)
@@ -92,30 +92,28 @@
 
     -   Guidance provider to the other members of the team.
 
--   **Members:**
+-   **🔷 Members:**
 
     -   Report their progress to the Lead.
 
     -   Completing assigned tasks.
 
-**Management / Leads:**
+### 🔶 Management / Leads:
 
--   Management:
+-   🔷 Management: `Ondřej Hrabák`
 
-    -   **Ondřej Hrabák**
+-   🔷 Leads:
 
--   Leads:
+    -   Back-end programming: `Dan Švehla`
 
-    -   Back-end programming: **Dan Švehla**
+    -   Front-end programming: `Dan Švehla`, `Erik Kinč`
 
-    -   Front-end programming: **Dan Švehla**, **Erik Kinč**
+    -   UI / UX graphics: `Erik Kinč`
 
-    -   UI / UX graphics: **Erik Kinč**
-
-    -   Marketing: **Ondřej Hrabák**
+    -   Marketing: `Ondřej Hrabák`
 
     -   Legal matter:
 
     -   Sound:
 
-    -   Other: **No lead required**
+    -   Other: `No lead required`
