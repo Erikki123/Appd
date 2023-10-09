@@ -6,7 +6,7 @@
     about whether the work is final or not.
 
 -   🔷 Members of the departments get assigned to work, which is expected
-    from the to be delivered.
+    from them to be delivered.
 
 -   **❗️ Note: This is just a guide and all ideas from all members to any
     department are highly welcomed! ❗️**
@@ -81,7 +81,7 @@
 
     -   Provides guidance to the whole team and motivates them.
 
--   **🔷 Lead:**
+-   **🔷 Lead:** (Responsibilities on top of the Member role. (No report to itself is needed.))
 
     -   Management of the team, which is assigned to the department.
         (Distribution of the tasks.)
