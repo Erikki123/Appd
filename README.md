@@ -15,19 +15,19 @@ explaining basic functionalities.
 
 🔷 **Project:**
 - To know what task is assigned to you look for the tab Projects in the top left part of the window. (Project name is Task - dashboard)
-- Further information of the Task - dashboard structure and how to orient there is in file `Dashboard_Info.docs` / `Dashboard_Info.md`
+- Further information of the Task - dashboard structure and how to orient there is in Documents / `Dashboard_Info.docs` , `Dashboard_Info.md`
 
 ![alt text](https://github.com/Erikki123/Temp_Song-me/blob/main/images/project_screenshot.png)
 
 🔷 **Branches:**
-- Additional information for branch structure and its use is in `Branch_Info.docs` / `Branch_Info.md`
+- Additional information for branch structure and its use is in Documents / `Branch_Info.docs` , `Branch_Info.md`
 
 🔷 **GitHub:**
-- Information for the newcomers about the GitHub and its use is in `GitHub_Info.docs` / `GitHub_Info.md`
+- Information for the newcomers about the GitHub and its use is in Documents / `GitHub_Info.docs` , `GitHub_Info.md`
 
 🔷 **Departments:**
 - In this document you will know, who is the lead of the specific department and to whom you are supposed to answer with issues, finished assignments and plan further steps.
-- The information are stated in `Departments_Info.docs` / `Departments_Info.md`
+- The information are stated in Documents / `Departments_Info.docs` , `Departments_Info.md`
 
 ### 🔶 **Description:**
 
