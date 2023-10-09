@@ -9,7 +9,7 @@ directory, use project dashboard and tell you the goal of the project.
 For those who have never used GitHub before, there exists a file
 explaining basic functionalities.
 
-❗️ **Please note that the main language is documents is English!** ❗️
+❗️ **Please note that the main language in documents is English!** ❗️
 
 ### 🔶 **Where to look for information:**
 
